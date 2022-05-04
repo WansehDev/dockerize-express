@@ -1,4 +1,6 @@
-# Setting up Dockerize Expres_Note: The recommended distro for running this setup is Ubuntu 18.04 and above. If you are using windows, setup first your WSL (I recommend you use WSL 2 rather than WSL 1)._
+# Setting up Dockerize Expres
+
+_Note: The recommended distro for running this setup is Ubuntu 18.04 and above. If you are using windows, setup first your WSL (I recommend you use WSL 2 rather than WSL 1)._
 
 ----
 
