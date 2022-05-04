@@ -23,7 +23,7 @@ Docker Desktop uses the dynamic memory allocation feature in WSL 2 to greatly im
 _A Dockerfile is already provided. You only have to set it up._
 
 Copy and Paste this in your Dockerfile.
-``` Docker
+``` docker
 # Initialize an Image
 FROM node:14.4.0-alpine3.12 
 
